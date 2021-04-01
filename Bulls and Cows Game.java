@@ -122,7 +122,6 @@ public class Main {
             }
             r = removeDuplicate(r);
         }
-        System.out.println("String returned:" + r);
         return r.toString();
     }
 
